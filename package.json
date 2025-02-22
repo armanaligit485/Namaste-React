@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React for Understanding React Better Way",
+  "homepage": "https://github.com/armanaligit485/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/armanaligit485/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armanaligit485/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Arman Ali",
+  "type": "module",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
