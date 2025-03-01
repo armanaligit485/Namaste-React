@@ -1,11 +1,5 @@
-/*
-<div>   
-    <div>
-        <h1 id="heading">Hello</h1>
-    </div>
-</div>
-*/
-
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 let reactHeading= React.createElement(
     "div",
