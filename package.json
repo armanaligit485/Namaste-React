@@ -13,7 +13,6 @@
   "license": "ISC",
   "author": "Arman Ali",
   "type": "module",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html --port 7777",
     "test": "jest"
